@@ -24,4 +24,4 @@ Each example should document:
 - Publish only assets that are owned, licensed, or approved for public use.
 - Remove confidential client and project information.
 - Clearly label conceptual visualizations.
-- Do not present invented property features as verified architecture.и
+- Do not present invented property features as verified architecture.
