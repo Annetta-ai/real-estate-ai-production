@@ -2,6 +2,10 @@
 
 Example projects demonstrate the complete real-estate AI production process without exposing confidential client materials.
 
+## Templates
+
+- [Case Study Template](case-study-template.md)
+
 ## Case-study format
 
 Each example should document:
@@ -20,4 +24,4 @@ Each example should document:
 - Publish only assets that are owned, licensed, or approved for public use.
 - Remove confidential client and project information.
 - Clearly label conceptual visualizations.
-- Do not present invented property features as verified architecture.
+- Do not present invented property features as verified architecture.и
