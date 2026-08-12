@@ -191,6 +191,25 @@ Do not invent floors, windows, balconies, amenities, views, neighboring building
 - Cinematic video clips
 - Final prompts and production settings
 
+## AI agents
+
+AI agents can support repetitive production tasks while keeping creative and architectural decisions under human control.
+
+### Planned agents
+
+- **Asset Intake Agent:** Organizes CGI, plans, references, client requirements, formats, and filenames.
+- **Prompt Agent:** Builds structured prompts from project requirements and preservation constraints.
+- **Image QA Agent:** Checks geometry, perspective, materials, reflections, scale, and visible AI artifacts.
+- **Video QA Agent:** Detects flicker, morphing, texture drift, unstable lines, and unintended movement.
+- **Delivery Agent:** Prepares approved assets in the required formats, resolutions, aspect ratios, and naming structure.
+
+### Approval rules
+
+- Agents may organize, analyze, generate drafts, and flag quality issues.
+- Agents must not approve architectural changes or invent property features.
+- Client-facing assets require human review before publication or delivery.
+- Every approved output must retain its source asset, prompt, model, settings, and version history.
+
 ## Roadmap
 
 - [x] Production standards
@@ -198,7 +217,7 @@ Do not invent floors, windows, balconies, amenities, views, neighboring building
 - [x] Workflow documentation
 - [x] Quality checklists
 - [x] Example projects
-- [ ] AI agents
+- [x] AI agents
 - [ ] Open-source tools
 
 
