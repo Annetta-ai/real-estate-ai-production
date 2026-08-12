@@ -155,13 +155,49 @@ Do not invent floors, windows, balconies, amenities, views, neighboring building
 - Deliver final assets together with the approved prompts and production settings.
 - Archive source files, references, prompts, working versions, and final outputs.
 
+## Example projects
+
+### Luxury Waterfront Residence
+
+**Objective:** Transform approved architectural CGI into photorealistic marketing images and short cinematic video sequences.
+
+**Source assets:**
+
+- Exterior and interior CGI
+- Architectural references
+- Material and lighting references
+- Client-approved compositions
+
+**Workflow:**
+
+1. Review source assets and define preservation constraints.
+2. Convert CGI into photorealistic images.
+3. Compare each result with the approved architecture.
+4. Generate short video clips using slow, controlled camera movement.
+5. Review clips frame by frame for structural stability.
+6. Export approved assets in web, social media, and presentation formats.
+
+**Quality requirements:**
+
+- Architecture and camera perspective remain unchanged.
+- Materials, lighting, reflections, and landscaping appear physically believable.
+- Video contains no flicker, morphing, texture drift, or newly generated objects.
+- Final assets are approved before delivery.
+
+**Deliverables:**
+
+- Photorealistic exterior images
+- Photorealistic interior images
+- Cinematic video clips
+- Final prompts and production settings
+
 ## Roadmap
 
 - [x] Production standards
 - [x] Prompt library
 - [x] Workflow documentation
 - [x] Quality checklists
-- [ ] Example projects
+- [x] Example projects
 - [ ] AI agents
 - [ ] Open-source tools
 
