@@ -19,6 +19,14 @@ This project documents professional workflows for transforming architectural CGI
 - Production Pipelines
 - AI Automation
 
+## Documentation
+
+- [Prompt library](prompts/) — reusable prompts for image and video production.
+- [Production workflows](workflows/) — step-by-step production processes.
+- [Quality checklists](checklists/) — image, video, and delivery quality gates.
+- [Example projects](examples/) — structure for documented case studies.
+- [AI agents](agents/) — planned production automation and operating rules.
+
 ## Getting started
 
 ### Required inputs
