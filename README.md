@@ -210,6 +210,25 @@ AI agents can support repetitive production tasks while keeping creative and arc
 - Client-facing assets require human review before publication or delivery.
 - Every approved output must retain its source asset, prompt, model, settings, and version history.
 
+## Open-source tools
+
+The framework is tool-agnostic. These open-source tools can support different stages of the production workflow.
+
+- **Blender:** Architectural modeling, camera setup, lighting, materials, and CGI rendering.
+- **ComfyUI:** Node-based AI image generation, refinement, upscaling, and workflow automation.
+- **FFmpeg:** Video conversion, resizing, frame extraction, compression, and final delivery.
+- **OpenCV:** Automated image and video analysis, frame comparison, and quality-control checks.
+- **ImageMagick:** Batch image resizing, format conversion, metadata handling, and optimization.
+- **ExifTool:** Inspection and management of image and video metadata.
+
+### Tool requirements
+
+- Preserve original source files and approved architecture.
+- Record tool versions, models, settings, prompts, and workflow configurations.
+- Verify model and asset licenses before commercial use.
+- Test tool updates before using them in active client production.
+- Apply the same quality gates regardless of the software used.
+
 ## Roadmap
 
 - [x] Production standards
@@ -218,7 +237,7 @@ AI agents can support repetitive production tasks while keeping creative and arc
 - [x] Quality checklists
 - [x] Example projects
 - [x] AI agents
-- [ ] Open-source tools
+- [x] Open-source tools
 
 
 ## Contributing
