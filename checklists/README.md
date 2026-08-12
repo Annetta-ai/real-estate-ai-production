@@ -1,5 +1,10 @@
 # Quality Checklists
 
+## Available checklists
+
+- [Image Quality Checklist](image-quality.md)
+- [Video Quality Checklist](video-quality.md)
+
 ## Image quality gate
 
 - Architecture and geometry match the approved source.
