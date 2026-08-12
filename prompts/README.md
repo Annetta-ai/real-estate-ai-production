@@ -4,10 +4,10 @@ Reusable prompt templates for real-estate AI production.
 
 ## Available templates
 
-- CGI → Photorealistic Image
-- Image → Cinematic Video
-- Luxury Interior Visualization
-- Luxury Exterior Visualization
+- [CGI → Photorealistic Image](cgi-to-photorealistic.md)
+- [Image → Cinematic Video](image-to-cinematic-video.md)
+- [Luxury Interior Visualization](luxury-interior.md)
+- [Luxury Exterior Visualization](luxury-exterior.md)
 
 ## Usage
 
