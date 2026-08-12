@@ -102,15 +102,69 @@ Lighting: [daylight / sunset / blue hour]
 Atmosphere: refined, natural, and cinematic  
 Camera: architectural photography with straight vertical lines
 
-Do not invent floors, windows, balconies, amenities, views, neighboring buildings, or structural features. Avoid distorted geometry, unrealistic vegetation, dramatic fake skies, excessive glow, and artificial HDR.## Roadmap
+Do not invent floors, windows, balconies, amenities, views, neighboring buildings, or structural features. Avoid distorted geometry, unrealistic vegetation, dramatic fake skies, excessive glow, and artificial HDR.
+
+## Production workflow
+
+### 1. Source review
+
+- Collect the original CGI, plans, reference images, brand guidelines, and delivery requirements.
+- Confirm the approved architecture, materials, views, aspect ratios, resolutions, and deadlines.
+- Identify elements that must remain unchanged.
+
+### 2. Reference preparation
+
+- Select references for lighting, atmosphere, camera style, materials, landscaping, and motion.
+- Separate architectural references from creative mood references.
+- Do not use references to introduce unapproved structural changes.
+
+### 3. Prompt development
+
+- Define the requested transformation and preservation constraints.
+- Specify camera, lens, lighting, atmosphere, movement, duration, aspect ratio, and output resolution.
+- Save the prompt, model, settings, source asset, and version number.
+
+### 4. Image production
+
+- Generate several controlled variations from the approved source.
+- Select the result with the strongest realism and architectural accuracy.
+- Refine only the areas that fail quality review.
+
+### 5. Image quality control
+
+- Compare the result with the original CGI, plans, and approved references.
+- Check geometry, perspective, materials, reflections, landscaping, furniture scale, and AI artifacts.
+- Approve the image for video production only after it passes the image quality gate.
+
+### 6. Video production
+
+- Choose one simple camera movement for each shot.
+- Generate short test clips before producing the final sequence.
+- Preserve fixed architectural elements and avoid unnecessary environmental motion.
+
+### 7. Video quality control
+
+- Review the full clip and inspect critical moments frame by frame.
+- Reject clips with flicker, morphing, texture drift, unstable lines, camera shake, or newly generated objects.
+- Confirm that the first and final frames remain architecturally consistent.
+
+### 8. Export and delivery
+
+- Export approved assets in the required resolution, aspect ratio, codec, and file format.
+- Use clear filenames with the project, scene, format, and version.
+- Deliver final assets together with the approved prompts and production settings.
+- Archive source files, references, prompts, working versions, and final outputs.
+
+## Roadmap
 
 - [x] Production standards
 - [x] Prompt library
-- [ ] Workflow documentation
+- [x] Workflow documentation
 - [x] Quality checklists
 - [ ] Example projects
 - [ ] AI agents
 - [ ] Open-source tools
+
 
 ## Contributing
 
