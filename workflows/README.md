@@ -2,6 +2,10 @@
 
 Documented workflows for transforming architectural CGI and source images into real-estate marketing assets.
 
+## Available workflows
+
+- [CGI → Photorealistic Image → Cinematic Video](cgi-to-cinematic-video.md)
+
 ## Core workflow
 
 1. Review source files and project requirements.
