@@ -284,7 +284,6 @@ The framework is tool-agnostic. These open-source tools can support different st
 - [x] AI agents
 - [x] Open-source tools
 
-
 ## Contributing
 
-Contributions, ideas and discussions are welcome.
+Contributions, ideas, and discussions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
